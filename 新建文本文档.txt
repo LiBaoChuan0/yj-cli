@@ -1,0 +1,4 @@
+在项目根目录，执行 npm login 登入 npm 账号，
+再执行 npm publish 发布
+
+测试以后使用 npm unpublish --force 删除
