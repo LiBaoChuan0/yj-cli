@@ -6,7 +6,7 @@
     "yj-list": "bin/yj-list",
     "yj-init": "bin/yj-init"
   },
-  "name": "yj-cli",
+  "name": "yj-cli-template",
   "version": "1.0.0",
   "description": "A simple CLI for creating your project",
   "main": "index.js",
